@@ -1,0 +1,28 @@
+name: Update Score and Leaderboard
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update:
+    if: contains(github.event.issue.title, 'Move Up') || contains(github.event.issue.title, 'Move Down')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install PyGithub
+
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+        run: |
+          python update_clicks.py "${{ github.event.issue.title }}"
