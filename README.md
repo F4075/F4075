@@ -2,7 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome!🎉&animation=twinkling" />
 </p>
 
-<h2> 🚀 Some Tools I Have Used and Learned</h2>
+# Hi there! I'm F4075! 👋
+
+## About Me
+
+I am a passionate developer specialising in javascript (front-end and back-end). I love building random websites for everyone to enjoy! If you have any new suggestions, feel free to email arrange-spry-radar@duck.com to contact me!
+
+## 🛠️ Technologies & Skills
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -21,7 +27,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45" />
 </p>
 
-## Click Counter & Leaderboard
+## 📫 How to reach me
+- Email: arrange-spry-radar@duck.com
+- More will be coming soon... But I think one method is enough for now.
+
+## 🔥 Current Projects
+You will know soon!
+
+## 🌱 Currently learning
+- Machine Learning
+
+
+## SCORE!
 
 Score: <!--SCORE_START--> 6 <!--SCORE_END-->
 <br /><br /><br />
@@ -49,3 +66,7 @@ Top Clickers:
 Once submitted an issue to change the score, please wait for 15 seconds and refresh the page for the change to take effect.
 
 Will the score be positive or negative? Who knows?
+
+---
+
+Thanks for visiting my profile! Hope you enjoyed it! 🚀
