@@ -40,14 +40,14 @@ You will know soon! (It's a lot)
 
 ## SCORE!
 
-Score: <!--SCORE_START--> 6 <!--SCORE_END-->
+Score: <!--SCORE_START--> 7 <!--SCORE_END-->
 <br /><br /><br />
 Recent Clickers:
 <!--RECENT_START--> AreSeven73, F4075 <!--RECENT_END-->
 <br /><br />
 Top Clickers:
 <!--LEADERBOARD_START--> 1. F4075 (7)
-2. AreSeven73 (1) <!--LEADERBOARD_END-->
+2. AreSeven73 (2) <!--LEADERBOARD_END-->
 
 
 <br />
