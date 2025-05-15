@@ -23,13 +23,13 @@
 
 ## Click Counter & Leaderboard
 
-Score: <!--SCORE_START--> 6 <!--SCORE_END-->
+Score: <!--SCORE_START--> 5 <!--SCORE_END-->
 <br /><br /><br />
 Recent Clickers:
 <!--RECENT_START--> AreSeven73, F4075 <!--RECENT_END-->
 <br /><br />
 Top Clickers:
-<!--LEADERBOARD_START--> 1. F4075 (5)
+<!--LEADERBOARD_START--> 1. F4075 (4)
 2. AreSeven73 (1) <!--LEADERBOARD_END-->
 
 
