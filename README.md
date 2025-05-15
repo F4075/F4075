@@ -32,7 +32,7 @@ I am a passionate developer specialising in javascript (front-end and back-end).
 - More will be coming soon... But I think one method is enough for now.
 
 ## 🔥 Current Projects
-You will know soon!
+You will know soon! (It's a lot)
 
 ## 🌱 Currently learning
 - Machine Learning
