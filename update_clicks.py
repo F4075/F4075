@@ -24,7 +24,7 @@ else:
     sys.exit(0)
 
 data['score'] += delta
-data['user_counts'][issue_author] = data['user_counts'].get(issue_author, 0) + delta
+data['user_counts'][issue_author] = data['user_counts'].get(issue_author, 0) + 1
 
 if issue_author not in data['recent_clickers']:
     data['recent_clickers'].insert(0, issue_author)
