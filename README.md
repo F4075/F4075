@@ -40,7 +40,7 @@ You will know soon! (It's a lot)
 
 ## SCORE!
 
-Score: <!--SCORE_START--> 9 <!--SCORE_END-->
+Score: <!--SCORE_START--> 10 <!--SCORE_END-->
 <br /><br /><br />
 Recent Clickers:
 <!--RECENT_START--> BigPotatoPizzaHey, AreSeven73, F4075 <!--RECENT_END-->
@@ -48,7 +48,7 @@ Recent Clickers:
 Top Clickers:
 <!--LEADERBOARD_START--> 1. F4075 (8)
 2. AreSeven73 (2)
-3. BigPotatoPizzaHey (1) <!--LEADERBOARD_END-->
+3. BigPotatoPizzaHey (2) <!--LEADERBOARD_END-->
 
 
 <br />
