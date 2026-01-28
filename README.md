@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a passionate developer specialising in javascript (front-end and back-end). I love building random websites for everyone to enjoy! If you have any new suggestions, feel free to email arrange-spry-radar@duck.com to contact me!
+I am a passionate developer specialising in javascript (front-end and back-end). I love building random websites for everyone to enjoy! If you have any new suggestions, feel free to email ema1l@duck.com to contact me!
 
 ## 🛠️ Technologies & Skills
 <p align="left">
@@ -28,7 +28,7 @@ I am a passionate developer specialising in javascript (front-end and back-end).
 </p>
 
 ## 📫 How to reach me
-- Email: arrange-spry-radar@duck.com
+- Email: ema1l@duck.com
 - More will be coming soon... But I think one method is enough for now.
 
 ## 🔥 Current Projects
